@@ -20,6 +20,7 @@
 
 title: Your awesome title
 email: gdmagana@stanford.edu
+title: "LSJUcraft"
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the Stanford in Minecraft Project website!
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -51,3 +52,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
