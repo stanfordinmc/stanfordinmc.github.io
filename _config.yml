@@ -28,7 +28,7 @@ twitter_username: gbemgn
 github_username:  gdmagana
 
 # Build settings
-remote_theme: abhinavs/moonwalk
+theme: minima
 plugins:
   - jekyll-feed
 
