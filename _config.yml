@@ -28,7 +28,7 @@ twitter_username: gbemgn
 github_username:  gdmagana
 
 # Build settings
-theme: dinky
+theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
 
