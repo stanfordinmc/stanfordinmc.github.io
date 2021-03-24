@@ -28,7 +28,7 @@ twitter_username: gbemgn
 github_username:  gdmagana
 
 # Build settings
-theme: jekyll-theme-midnight 
+theme: minima 
 plugins:
   - jekyll-feed
 
