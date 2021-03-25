@@ -28,3 +28,4 @@ Want to be whitelisted so you can play on our survival world?
 **[Fill out this form!](https://forms.gle/K1BpdQCRy4yBVKb98)**
 
 Want more information on the campus build? Check out **[Michael Byun's all encompassing guide](https://docs.google.com/document/d/1-p5DtkpHd96OWSV04IDzfYjPyzr7y9jmriKJKKtIf3M/edit#)**
+and check out the #stanford
