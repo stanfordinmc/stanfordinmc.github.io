@@ -11,10 +11,13 @@ Click the above widget or [this link](https://discord.gg/XvPDXNg) to join.
 
 
 
-### accessing the server:
-The server can be accessed through a 1.16.5 Java Edition client at lsjucraft.xyz. **You need a Java edition Minecraft account to do so. The server currently doesn't work on Console versions like Switch, Xbox, or iOS versions.**
+### **accessing the server:**
+The Minecraft server can be accessed through a 1.16.5 Java Edition client at **LSJUcraft.xyz**
+
+You need a Java edition Minecraft account to do so. The server currently doesn't work on Console versions like Switch, Xbox, or iOS versions.
+
 There are three permissions levels in the campus world:
-- Any member of the public can access the world in adventure mode.
+- Any member of the public can access the world in adventure and spectator mode.
 - Whitelisted players can build in the world. (See “getting started” below).
 - Campus Moderators are granted WorldEdit permissions. If you’re interested in planning and directing construction projects and ensuring build accuracy, contact mbyun@stanford.edu.
 
