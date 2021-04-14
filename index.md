@@ -1,4 +1,4 @@
-# Minecraft Server Address: <span style="color:blue">play.stanford.builders</span>.
+# Server Address: <span style="color:blue">play.stanford.builders</span>
 Welcome to Stanford in Minecraft! This project aims to recreate the Stanford campus at a 1:1 scale. We hope this project allows people to gather in a familiar space from afar, and inspires greater appreciation of and critical thinking about the land, architecture, landscaping, and built environment of Stanford.
 
 This game is a project created by Stanford student volunteers and not by Stanford University.
@@ -14,7 +14,7 @@ Click the above widget or [this link](https://discord.gg/VSn9crf3PT) to join.
 
 
 ### **accessing the server:**
-The Minecraft server can be accessed through a 1.16.5 Java Edition client at **LSJUcraft.xyz**
+The Minecraft server can be accessed through a 1.16.5 Java Edition client at **play.stanford.builders**
 
 You need a Java edition Minecraft account to do so. The server currently doesn't work on Console versions like Switch, Xbox, or iOS versions.
 
