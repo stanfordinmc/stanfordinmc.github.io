@@ -1,4 +1,4 @@
-# Minecraft Server IP adress: <span style="color:blue">lsjucraft.xyz</span>.
+# Minecraft Server Address: <span style="color:blue">play.stanford.builders</span>.
 Welcome to Stanford in Minecraft! This project aims to recreate the Stanford campus at a 1:1 scale. We hope this project allows people to gather in a familiar space from afar, and inspires greater appreciation of and critical thinking about the land, architecture, landscaping, and built environment of Stanford.
 
 This game is a project created by Stanford student volunteers and not by Stanford University.
@@ -28,4 +28,4 @@ Want to be whitelisted so you can play on our survival world?
 **[Fill out this form!](https://forms.gle/K1BpdQCRy4yBVKb98)**
 
 Want more information on the campus build? Check out **[Michael Byun's all encompassing guide](https://docs.google.com/document/d/1-p5DtkpHd96OWSV04IDzfYjPyzr7y9jmriKJKKtIf3M/edit#)**
-and check out the #stanford
+and check out the discord!
