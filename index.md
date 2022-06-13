@@ -14,7 +14,7 @@ Click the above widget or [this link](https://discord.gg/VSn9crf3PT) to join.
 
 
 ### **accessing the server:**
-The Minecraft server can be accessed through a 1.16.5 Java Edition client at **play.stanford.builders**
+The Minecraft server can be accessed through a 1.19 Java Edition client at **play.stanford.builders**
 
 You need a Java edition Minecraft account to do so. The server currently doesn't work on Console versions like Switch, Xbox, or iOS versions.
 
